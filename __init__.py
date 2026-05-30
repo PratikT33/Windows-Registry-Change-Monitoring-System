@@ -1,1 +1,1 @@
-"""core — Registry monitoring engine modules."""
+# modules/__init__.py
